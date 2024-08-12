@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConAppMethodOverLoading", "ConAppMethodOverLoading\ConAppMethodOverLoading.csproj", "{DFB83E42-2110-4B84-BEB9-4D40F27F0B7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFB83E42-2110-4B84-BEB9-4D40F27F0B7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFB83E42-2110-4B84-BEB9-4D40F27F0B7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFB83E42-2110-4B84-BEB9-4D40F27F0B7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFB83E42-2110-4B84-BEB9-4D40F27F0B7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA4D4570-272B-4648-AEC9-CA65FBD3DEA0}
+	EndGlobalSection
+EndGlobal

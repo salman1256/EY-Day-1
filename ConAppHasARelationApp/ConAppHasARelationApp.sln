@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConAppHasARelationApp", "ConAppHasARelationApp\ConAppHasARelationApp.csproj", "{85459DFE-0413-4417-BE73-5C43222F4059}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85459DFE-0413-4417-BE73-5C43222F4059}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85459DFE-0413-4417-BE73-5C43222F4059}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85459DFE-0413-4417-BE73-5C43222F4059}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85459DFE-0413-4417-BE73-5C43222F4059}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D33F15ED-C63F-4EAF-9B15-B90381AF2B5E}
+	EndGlobalSection
+EndGlobal

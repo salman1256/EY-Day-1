@@ -1,0 +1,7 @@
+D:\EY\Day-1\ConAppProperties\ConAppProperties\bin\Debug\ConAppProperties.exe.config
+D:\EY\Day-1\ConAppProperties\ConAppProperties\bin\Debug\ConAppProperties.exe
+D:\EY\Day-1\ConAppProperties\ConAppProperties\bin\Debug\ConAppProperties.pdb
+D:\EY\Day-1\ConAppProperties\ConAppProperties\obj\Debug\ConAppProperties.csproj.AssemblyReference.cache
+D:\EY\Day-1\ConAppProperties\ConAppProperties\obj\Debug\ConAppProperties.csproj.CoreCompileInputs.cache
+D:\EY\Day-1\ConAppProperties\ConAppProperties\obj\Debug\ConAppProperties.exe
+D:\EY\Day-1\ConAppProperties\ConAppProperties\obj\Debug\ConAppProperties.pdb

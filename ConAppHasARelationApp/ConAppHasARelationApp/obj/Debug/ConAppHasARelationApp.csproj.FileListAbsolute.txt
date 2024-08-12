@@ -1,0 +1,7 @@
+D:\EY\Day-1\ConAppHasARelationApp\ConAppHasARelationApp\bin\Debug\ConAppHasARelationApp.exe.config
+D:\EY\Day-1\ConAppHasARelationApp\ConAppHasARelationApp\bin\Debug\ConAppHasARelationApp.exe
+D:\EY\Day-1\ConAppHasARelationApp\ConAppHasARelationApp\bin\Debug\ConAppHasARelationApp.pdb
+D:\EY\Day-1\ConAppHasARelationApp\ConAppHasARelationApp\obj\Debug\ConAppHasARelationApp.csproj.AssemblyReference.cache
+D:\EY\Day-1\ConAppHasARelationApp\ConAppHasARelationApp\obj\Debug\ConAppHasARelationApp.csproj.CoreCompileInputs.cache
+D:\EY\Day-1\ConAppHasARelationApp\ConAppHasARelationApp\obj\Debug\ConAppHasARelationApp.exe
+D:\EY\Day-1\ConAppHasARelationApp\ConAppHasARelationApp\obj\Debug\ConAppHasARelationApp.pdb

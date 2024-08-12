@@ -1,0 +1,7 @@
+D:\EY\Day-1\ConAppOne\ConAppOne\bin\Debug\ConAppOne.exe.config
+D:\EY\Day-1\ConAppOne\ConAppOne\bin\Debug\ConAppOne.exe
+D:\EY\Day-1\ConAppOne\ConAppOne\bin\Debug\ConAppOne.pdb
+D:\EY\Day-1\ConAppOne\ConAppOne\obj\Debug\ConAppOne.csproj.AssemblyReference.cache
+D:\EY\Day-1\ConAppOne\ConAppOne\obj\Debug\ConAppOne.csproj.CoreCompileInputs.cache
+D:\EY\Day-1\ConAppOne\ConAppOne\obj\Debug\ConAppOne.exe
+D:\EY\Day-1\ConAppOne\ConAppOne\obj\Debug\ConAppOne.pdb
